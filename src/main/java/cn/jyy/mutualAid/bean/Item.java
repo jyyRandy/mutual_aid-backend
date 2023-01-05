@@ -21,4 +21,5 @@ public class Item {
     private String contributor;
     @NotEmpty(message = "请输入电子邮箱")
     private String email;
+    
 }
